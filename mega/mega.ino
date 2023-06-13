@@ -1,5 +1,5 @@
-const int trigPin[] = {7, 8, 13, 9, 10, 11, 12};
-const int echoPin[] = {A0, A1, A2, A3, A4, A5, 6};
+const int trigPin[] = {7, 8, 9, 10, 11, 12, 13};
+const int echoPin[] = {A0, A1, A2, A3, A4, A5, A6};
 const int buzzerPin = 3;
 
 const int led1 = 22;
